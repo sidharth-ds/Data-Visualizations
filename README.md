@@ -37,3 +37,40 @@
     * 6-values (3 for axis, 3 for thickness)
     * 1 plane must be zero, for the graph to be grounded
     * multiple bars in the same figure
+
+## seaborn_1
+
+- Scatterplot
+- Countplot
+- Hue (color)
+    - without order, with order
+    - changing colors
+- Relational plots & subplots:
+    - relplot()
+    - column-wise, row-wise, both
+    - wraping columns
+    - point size
+    - point transparency
+
+## seaborn_2
+
+- Line plot:
+    - using relplot()
+- multiple observations per x-value:
+    - using relplot()
+    - kind = "scatter", "line"
+    - confidence interval (ci):
+        - shaded region : indicates uncertainity
+- Categorical plot:
+    - catplot()
+    - kind = "count", "bar" 
+    - horizontal bar: by interchanging x & y values
+    - Box plot:
+        - to see median, spread, skewness, outliers
+        - used in time_series data
+    - Point plot:
+        - import median
+- changing color palette:
+    - sequential palette
+    - custom palette
+    - changing the size
