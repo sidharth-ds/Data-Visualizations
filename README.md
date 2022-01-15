@@ -38,7 +38,7 @@
     * 1 plane must be zero, for the graph to be grounded
     * multiple bars in the same figure
 
-## seaborn_1
+## seaborn_1:
 
 - Scatterplot
 - Countplot
@@ -52,7 +52,7 @@
     - point size
     - point transparency
 
-## seaborn_2
+## seaborn_2:
 
 - Line plot:
     - using relplot()
