@@ -74,3 +74,25 @@
     - sequential palette
     - custom palette
     - changing the size
+
+
+## bokeh_1
+
+- Line plot, Bar plots
+- Patch plot (to show the region having similar properties)
+- Scatter markers
+- Area plot
+- Circle glyph,Rectangle, Oval, Ellipse
+- Arc, Wedge
+- Bezier curves
+    - starting point, ending point, control points.
+
+## bokeh_2
+
+- Bar plot, Stacked Bar
+- Twin axes: relationship between x&y, x&y2 , y&y2
+- Datetime axis
+- Log axes
+- using Pandas in bokeh: (dataframe)
+- column layout, row layout
+- gridplot
