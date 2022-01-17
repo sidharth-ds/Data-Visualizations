@@ -72,6 +72,29 @@
     - sequential palette, custom palette
     - changing the size
 
+## Power BI:
+
+- Importing data
+- Choosing the Visualization (right chart)
+- under Fields section:
+    - choosing the column features to be plotted
+    - Legend, Axis and Values:
+        - Axis : base (x/y axis)
+        - Legend : labels
+        - Values : other axis (x/y axis)
+    - Formatting visualization components
+    - applying Analytics
+- Apply filters (under Filter section)
+- Auto filtering (by clicking on the value in chart)
+- Adding a calculated column (column derived from another column)
+- Adding a measure column (avg, sum, mean,...)
+- Modeling relationships:
+    - between multiple Tables, multiple Files, multiple Data
+    - using Power Query editor/ drag & drop
+    - new relationships gets in reflected under Fields category
+- DAX : Data Analysis Expression
+    - SUM, SUMX  (Table name, Expression)
+    - All and AllExcept 
 
 ## bokeh_1
 
