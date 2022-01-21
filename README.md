@@ -37,6 +37,32 @@
     * 1 plane must be zero, for the graph to be grounded
     * multiple bars in the same figure
 
+## Plotly-1 (plotly.express):
+
+- Line graph, Bar graph, Scatter plot, 
+- Histogram, Pie chart
+
+## Plotly-2 (plotly.graph_objects):
+
+- Bar graph
+- Scatter plot (mode = markers, line, lines+markers)
+- Pie chart, Donut chart
+    - textposition, pull
+- Sunburst graph
+- Polar graph (scatterpolar, barpolar)
+- 3d graph (scatter, line)
+
+## Plotly-3:
+
+-  from plotly.subplots import make_subplots
+    - xy, polar, scene, domain (append_trace)
+- creating Buttons (update_layout, updatemenus)
+- Animation (using plotly.express)
+- Candle stick (for stock market data)
+- Surface area graph (sin, cos, tan)
+- Mesh 3d
+
+
 ## seaborn_1:
 
 - Scatterplot
